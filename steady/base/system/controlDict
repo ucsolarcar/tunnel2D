@@ -54,6 +54,7 @@ functions
 {
     #includeFunc streamlines
     #includeFunc writeObjects(kEpsilon:G)
+    #includeFunc residuals
 }
 
 // ************************************************************************* //
